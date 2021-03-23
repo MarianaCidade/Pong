@@ -66,6 +66,8 @@
   <ItemGroup>
     <Compile Include="Assets\Script\Ball.cs" />
     <Compile Include="Assets\Script\Paddle.cs" />
+    <Compile Include="Assets\Script\ScoreKeeper.cs" />
+    <Compile Include="Assets\Script\Wall.cs" />
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Hub/Editor/2019.4.21f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

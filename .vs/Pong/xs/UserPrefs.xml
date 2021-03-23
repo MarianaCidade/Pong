@@ -1,8 +1,10 @@
 ﻿<Properties StartupConfiguration="{59972000-A102-93F3-E252-4AFE00D882C8}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Paddle.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/ScoreKeeper.cs">
     <Files>
-      <File FileName="Assets/Script/Paddle.cs" Line="16" Column="21" />
-      <File FileName="Assets/Script/Ball.cs" Line="35" Column="34" />
+      <File FileName="Assets/Script/Paddle.cs" Line="58" Column="1" />
+      <File FileName="Assets/Script/Ball.cs" />
+      <File FileName="Assets/Script/Wall.cs" Line="18" Column="28" />
+      <File FileName="Assets/Script/ScoreKeeper.cs" Line="14" Column="49" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,7 +12,7 @@
           <Node name="Pong" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Script" expanded="True">
-                <Node name="Paddle.cs" selected="True" />
+                <Node name="ScoreKeeper.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -20,7 +22,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0e9bc33a-22d6-4232-b211-bc65bf54b145" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b21b2c7b-f64e-44bc-9a65-436e63e0cc56" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
