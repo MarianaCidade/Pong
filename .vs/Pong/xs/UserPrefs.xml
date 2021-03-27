@@ -3,8 +3,8 @@
     <Files>
       <File FileName="Assets/Script/Paddle.cs" Line="58" Column="1" />
       <File FileName="Assets/Script/Ball.cs" />
-      <File FileName="Assets/Script/Wall.cs" Line="18" Column="28" />
-      <File FileName="Assets/Script/ScoreKeeper.cs" Line="14" Column="49" />
+      <File FileName="Assets/Script/Wall.cs" Line="15" Column="34" />
+      <File FileName="Assets/Script/ScoreKeeper.cs" Line="31" Column="52" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -22,7 +22,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b21b2c7b-f64e-44bc-9a65-436e63e0cc56" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="155e78c7-ea73-4987-ba3f-efe9629d58fd" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
